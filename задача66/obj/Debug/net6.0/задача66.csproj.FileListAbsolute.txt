@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/bin/Debug/net6.0/задача66
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/bin/Debug/net6.0/задача66.deps.json
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/bin/Debug/net6.0/задача66.runtimeconfig.json
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/bin/Debug/net6.0/задача66.dll
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/bin/Debug/net6.0/задача66.pdb
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.AssemblyInfo.cs
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.dll
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/refint/задача66.dll
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.pdb
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/задача66.genruntimeconfig.cache
+/Users/macuser/Desktop/дзC#/дз9С#/задача66/obj/Debug/net6.0/ref/задача66.dll
